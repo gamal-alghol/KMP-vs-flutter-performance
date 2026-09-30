@@ -1,0 +1,9 @@
+
+# KMP local/build files
+test_kmp/.git_backup/
+test_kmp/.gradle/
+test_kmp/.idea/
+test_kmp/.kotlin/
+test_kmp/build/
+test_kmp/androidApp/build/
+test_kmp/androidApp/release/
