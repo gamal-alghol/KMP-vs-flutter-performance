@@ -105,13 +105,13 @@ This section measures rendering stability, frame throughput (FPS), and rendering
 
 ---
 
-## 4️⃣ RAM Footprint Comparison (Memory Profiler Benchmark)
+## 4️⃣ Memory Footprint Comparison
 
 This section evaluates the memory allocation breakdown of both applications during high-frequency local data streaming using the **Android Studio Memory Profiler**.
 
 ---
 
-### 📊 RAM Allocation Breakdown
+### 📊 Memory Allocation Breakdown
 
 | Memory Metric | Compose Multiplatform (KMP) | Flutter (Impeller Engine) 
 | :--- | :---: | :---: 
@@ -123,7 +123,7 @@ This section evaluates the memory allocation breakdown of both applications duri
 
 ### 📊 Evidence: Memory Profiler Screenshots
 
-| Compose Multiplatform (KMP) Memory | Flutter (Impeller Engine) Memory |
+| KMP Memory | Flutter Memory |
 | :---: | :---: |
 | ![KMP RAM Screenshot](media/kmp-ram.png) | ![Flutter RAM Screenshot](media/flutter-ram.png) |
 
